@@ -1,0 +1,4 @@
+0 -> positive
+1 -> negative
+2 -> uncertainty
+3 -> litigious

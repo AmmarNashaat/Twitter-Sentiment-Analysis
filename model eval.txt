@@ -1,0 +1,3 @@
+accuracy = 0.7160051012274828
+weightedPrecision = 0.6866355433726938
+weightedRecall = 0.7160051012274828
