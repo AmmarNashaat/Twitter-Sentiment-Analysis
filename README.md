@@ -2,6 +2,8 @@
 
 End‑to‑end system for classifying tweets into sentiment categories using Apache Spark MLlib and real‑time streaming with Apache Kafka.
 
+Data: (https://www.kaggle.com/datasets/kazanova/sentiment140)
+
 ## Table of Contents
 
 - Sentiment Analysis of Financial Tweets  
