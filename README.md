@@ -1,6 +1,10 @@
-# Sentiment Analysis of Financial Tweets
+# Financial Tweet Sentiment Analysis: Real-Time Big Data Pipeline
 
-End‑to‑end system for classifying tweets into sentiment categories using Apache Spark MLlib and real‑time streaming with Apache Kafka.
+[![PySpark 3.5.2](https://img.shields.io/badge/PySpark-3.5.2-orange?logo=apachespark&logoColor=white)](https://spark.apache.org/)
+[![Apache Kafka 2.3](https://img.shields.io/badge/Apache_Kafka-2.3-black?logo=apachekafka&logoColor=white)](https://kafka.apache.org/)
+[![Java 11](https://img.shields.io/badge/Java-11-red?logo=openjdk&logoColor=white)](https://openjdk.org/)
+[![Dataset: Sentiment140](https://img.shields.io/badge/Dataset-Sentiment140-blue?logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/kazanova/sentiment140)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Data: (https://www.kaggle.com/datasets/kazanova/sentiment140)
 
