@@ -10,7 +10,6 @@ End‑to‑end system for classifying tweets into sentiment categories using Apa
   - Methodology and Architecture  
   - Experimental Results  
   - Project Structure and Tools  
-  - Team  
 
 ## Overview
 
@@ -160,4 +159,5 @@ These versions are compatible and suitable for running Spark Structured Streamin
 ## Under supervision of Prof, Giancarlo Sperli
 
 - Ammar Gharaf - a.gharaf@studenti.unina.it
+
 Course: Hardware & Software for Big Data (2025/2026)
